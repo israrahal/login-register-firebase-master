@@ -1,1 +1,3 @@
-# login-register-firebase-master
+# login-register-firebase
+doit etre installer firebase
+npm i firebase
